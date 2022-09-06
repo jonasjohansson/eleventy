@@ -1,0 +1,26 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasjohansson/eleventy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasjohansson/eleventy/issues"
+  },
+  "homepage": "https://github.com/jonasjohansson/eleventy#readme",
+  "dependencies": {
+    "eleventy": "^1.0.6"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  },
+  "keywords": [],
+  "description": ""
+}
